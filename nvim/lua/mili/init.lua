@@ -1,4 +1,5 @@
 require("mili.packer")
 require("mili.remap")
 require("mili.conform")
+require("mili.defaults")
 print("let's edit")
